@@ -13,8 +13,9 @@ This project analyzed outcomes from two pediatric rehab programs (HIIT and PLAY)
 - Visualization: `ggplot2`
 
 ## Repository Contents
-- `RPE_FUN_Analysis.Rmd` – RM-ANOVA and post-hoc comparisons
-- `Mixed_Model_Analysis.Rmd` – Mixed model analysis and model selection
+- `RPE.FUN.ANOVA` – RM-ANOVA and post-hoc comparisons
+- `RPE.FUN Mix Linear Models.Rmd` – Mixed model analysis and model selection
+- `REP_FUN_ANALYSIS.Rmd` - Various machine learning models
 - `outputs/` – PDF reports summarizing all statistical results
 
 ## Data Disclaimer
